@@ -1,3 +1,10 @@
 body {
     background-color: lightslategrey;
 }
+.form-group row{
+    background-color: magenta;
+}
+.form-group-wrapper {
+    background-color: mediumblue;
+    padding: 10px;
+}
